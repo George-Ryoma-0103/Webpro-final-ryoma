@@ -29,6 +29,7 @@ const rankColor = (rank: string) => {
       return "text-gray-500";    // 良好
     default:
       return "text-gray-400";
+      
   }
 };
 
